@@ -1,0 +1,16 @@
+
+.bird {
+    background-image: url(./assets/goutham-krishna-h5wvMCdOV3w-unsplash.jpg);
+    background-blend-mode:multiply;
+     
+}
+
+.rocks {
+    background-image: url(./assets/deniz-altindas-t1XLQvDqt_4-unsplash.jpg);
+    background-blend-mode:multiply; 
+}
+
+.sunset {
+    background-image: url(./assets/cole-keister-xMMh-VFGL9M-unsplash\(1\).jpg);
+    background-blend-mode:multiply; 
+}
